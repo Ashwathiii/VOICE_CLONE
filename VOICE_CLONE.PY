@@ -58,7 +58,7 @@ print("saved as translated_to_hindi.mp3")
 
 
 #converted audio is translated to speakers voice using RVC v2 with crepe
-
+link="https://colab.research.google.com/drive/1Gj6UTf2gicndUW_tVheVhTXIIYpFTYc7?usp=sharing#scrollTo=OVQoLQJXS7WX"
 
 #combining thevideo and the audio
 #orginal video importing
